@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinTest</string>
+
+    <string name="label_menu1">FirstMenu</string>
+    <string name="label_menu2">SecondMenu</string>
+    <string name="label_menu3">ThirdMenu</string>
+</resources>
